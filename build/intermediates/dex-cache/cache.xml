@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\9b7deddeaca665b897aeb17567914fb679758f81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5e3b572252f10ab7731d36fe87722f055328196c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\41ca2f88870d91fed80befdf89523fe759c4a987\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_773746bfce64504702b8b27ee763dd22e0cabdcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\acea156d165d4c28876af97eecd43f4f5756bc0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_035015917e97033f80fc7c5e8f35dfce42219cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\2b5a28c905e4d43615d87f32e139bde28847e18a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e1b5b821f459f6b3ceb29a1c1eaae18e54b8d85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\acea156d165d4c28876af97eecd43f4f5756bc0e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_035015917e97033f80fc7c5e8f35dfce42219cf3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\dd99f93e88015b06ab17b16921c84b2efe4b2201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df909c6db71a11972e9c1fb775eced757b56e317\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\d6ce65084df301bcf37cad68aec3cff7439ccc70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8768a407f42a532ac91ea87285cdd19975be06b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a0bae5eeef3f6c4061f7b51497960a2d851721a7">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c484d90956b201a9aeee47e02a1837fecd517256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_328ef1cc40bf88479be7320d1bdd784911baccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_775bfaec2f0fc079e06884e8057dfd372cde033b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\89231e7577752ce4894bd937456571c50d0da995\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1da9e880df073d9abde9c8b0b45f246438562a22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0bae5eeef3f6c4061f7b51497960a2d851721a7">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_c484d90956b201a9aeee47e02a1837fecd517256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\60b24e3ada5adfbf4cfe34e45ec44feebbf4ed5e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_660487ce9098ba7c4ce4f89f71b8db5109a97017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\d6ce65084df301bcf37cad68aec3cff7439ccc70\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db939a450ea2a721db84e774bf108e20c44a8a1d">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8768a407f42a532ac91ea87285cdd19975be06b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\23c0971e6eb8fb007dbc47163ce0124bc2807748\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72c97af4e6e15ca2a5628f05aba7ad8937d3f51d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\79e118b067ac6c5e8fb3395947462fc871c6ba00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_faee37f853422205b7084abd8165176d5afd03bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\7f796533dbc3a9989c64f799dae0cd72081625e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc054a0705534689edae94e2d192bc80cb6ffcf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_328ef1cc40bf88479be7320d1bdd784911baccdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\78707015a15d639fbcdac132de23053fbec21f6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3f4c0defc0d1cbdac41a04b849aca4bc0e41e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_f0fbf657713ea97d5da34e28fd74171f9fe4e5fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\7f796533dbc3a9989c64f799dae0cd72081625e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc054a0705534689edae94e2d192bc80cb6ffcf2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\2e66b57ec7b4a1e95e2d361ec0126d5f35734495\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a74c011cee6d6379f96c630920a0870c1625a98d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\2b5a28c905e4d43615d87f32e139bde28847e18a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e1b5b821f459f6b3ceb29a1c1eaae18e54b8d85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nilea\.android\build-cache\884ca5b3987d370c437ed6b1458eaf59784ed758\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\College\MTech\Sem1\ECS\Assignment\Solution1\Map\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f1f90841a2291ad835da89cab751f25f259cab6\classes.dex" />
+    </item>
+
+</items>
